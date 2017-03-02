@@ -2,6 +2,24 @@
 Mapinfo and Hookrace files
 
 
+
+###Setting map's game modes.
+Each map has a .mapinfo file which is a basic configuration. It determines which game modes are available for each map, as well as miscellaneous settings.
+
+For example, in order to enable a map for CTS, and disable it in other modes, it will need the following:
+
+```
+//gametype dm
+//gametype ctf
+//gametype ft
+gametype cts
+```
+
+The parts commented out aren't required at all, as the .mapinfo used from this repo will replace the one which comes with the map, inside of its .pk3 archive. But for tidyness' sake, having the values within the .mapinfo files makes it quicker to rename a .mapinfo file, and adjust it.
+
+
+###Hook race, and making maps playable.
+
 ####Quick example of adding "triggers" to work as checkpoints to maps through the .ent file:
 
 Use the following command to save a .ent file of a map you're currently playing:
