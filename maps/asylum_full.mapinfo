@@ -1,0 +1,8 @@
+has weapons
+gametype dm
+gametype ctf
+gametype tdm
+gametype dom
+gametype ca
+gametype ft
+gametype cts

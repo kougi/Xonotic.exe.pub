@@ -1,0 +1,6 @@
+has weapons
+gametype rc
+gametype cts
+settemp_for_type ons g_powerups 0
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1

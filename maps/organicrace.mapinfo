@@ -1,0 +1,6 @@
+title Organic Race
+description Terrain racemap
+author FruitieX
+has weapons
+gametype race 10 10 20
+gametype cts

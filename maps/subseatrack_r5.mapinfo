@@ -1,0 +1,11 @@
+title sub-sea race track
+description A track taken from SuperTuxKart
+author divVerent
+_diameter 8702.458008
+_spawnpoints 60
+has weapons
+gametype lms 9 20
+gametype kh 1000 20
+gametype race 10 20
+gametype cts
+

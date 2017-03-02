@@ -1,0 +1,10 @@
+title azure
+description first map dude
+author kuniu the frogg
+has weapons
+gametype dm 30 20
+gametype tdm 50 20 2
+gametype lms 9 20
+gametype ca 10 20
+gametype kh 1000 20 2
+

@@ -1,0 +1,5 @@
+title ^0Evil^1Space ^0Deep^1Sky
+description EvilSpaceCTF with larger Skybox	
+cdtrack 8
+gametype ctf 300 20 10
+gametype cts

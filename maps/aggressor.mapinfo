@@ -1,0 +1,12 @@
+title Aggressor
+description Aggressor retextured by FruitieX
+author FruitieX, Kevin "Tyrann" Shanahan, Paul Evers
+_diameter 2554.305176
+_spawnpoints 7
+has weapons
+gametype dm 30 20
+gametype dom 200 20
+gametype lms 9 20
+gametype kh 1000 20 3
+gametype rc 20 5 10 20
+cdtrack 0

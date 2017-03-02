@@ -1,0 +1,12 @@
+title hook race
+author clueless newbie / c lund
+// has weapons
+// uncomment this if you added turrets: has turrets
+// uncomment this if you added vehicles: has vehicles
+// gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
+// gametype dom
+gametype ctf
+gametype kh
+gametype cts
+gametype ft
+

@@ -1,0 +1,20 @@
+title YOU'RE WINNER
+description Track from Big Rigs: Over The Road Racing
+author StellarStone
+cdtrack yourewinner
+//type race 5 20 15
+gametype cts
+gametype rc
+has weapons
+// optional: fog density red green blue alpha mindist maxdist
+// optional: settemp_for_type (all|gametypename) cvarname value
+// optional: clientsettemp_for_type (all|gametypename) cvarname value
+// optional: size mins_x mins_y mins_z maxs_x maxs_y maxs_z
+// optional: hidden
+settemp_for_type all g_bugrigs 0
+settemp_for_type all g_touchexplode 0
+//clientsettemp_for_type all chase_back 192
+//clientsettemp_for_type all chase_up 24
+//settemp_for_type all sv_defaultcharacter 1
+//settemp_for_type all sv_defaultplayermodel models/yourewinner/pbcar.md3
+//settemp_for_type all sv_defaultplayerskin 0

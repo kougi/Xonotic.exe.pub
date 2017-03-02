@@ -1,0 +1,12 @@
+title Racing Worlds
+description Race on Face!
+author divVerent
+has weapons
+gametype race 5 20 15
+gametype cts
+settemp_for_type race g_start_weapon_shotgun 0
+settemp_for_type race g_start_ammo_shells 0 
+settemp_for_type race g_pickup_shells 5 
+settemp_for_type race g_pickup_nails 30 
+settemp_for_type race g_pickup_rockets 6 
+settemp_for_type race g_pickup_cells 10
