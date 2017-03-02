@@ -2,16 +2,18 @@
 Mapinfo and Hookrace files
 
 
-Quick example of adding "triggers" to work as checkpoints to maps through the .ent file:
+####Quick example of adding "triggers" to work as checkpoints to maps through the .ent file:
 
 Use the following command to save a .ent file of a map you're currently playing:
-  sv_saveentfile
+
+  *sv_saveentfile*
 
 Get your current coordinates via:
-  prvm_edictget server 1 origin 
 
+  *prvm_edictget server 1 origin*
 
-```{
+```
+{
 "classname" "trigger_race_checkpoint" //start
 "cnt" "0" //Checkpoint number, start and finish are 0.
 "targetname" "start" //unique trigger name
@@ -31,8 +33,8 @@ Get your current coordinates via:
 "mins" "-100 -100 0"
 "maxs" "100 100 250"
 
-}```
-
+}
+```
 
 The above will create a start, a checkpoint, but no finish, so you'll need to return to start to trigger the stop.
 
