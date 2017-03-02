@@ -38,3 +38,7 @@ Get your current coordinates via:
 
 The above will create a start, a checkpoint, but no finish, so you'll need to return to start to trigger the stop.
 
+You can view the triggers visually, by using this command while testing:
+
+*r_showbboxes 5*
+
