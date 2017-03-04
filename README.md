@@ -60,3 +60,4 @@ You can view the triggers visually, by using this command while testing:
 
 *r_showbboxes 5*
 
+[Entity Documentation](https://dl.dropboxusercontent.com/u/18995126/entities.ent)
