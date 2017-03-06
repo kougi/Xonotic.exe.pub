@@ -1,6 +1,7 @@
-*
 logs/
 data/
 !.gitignore
-!.ent
-!.mapinfo
+!*.ent
+!*.mapinfo
+*.dat
+*.txt
