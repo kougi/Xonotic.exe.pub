@@ -4964,7 +4964,7 @@
  {
 "classname" "trigger_race_checkpoint" //Pool, finish
 "targetname" "finish"
-"cnt" "6"
+"cnt" "4"
 "origin" "1498.7616 -2560.18872 -849.568726"
 "mins" "-100 -400 -200"
 "maxs" "100 400 500"
