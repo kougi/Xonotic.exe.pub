@@ -2,12 +2,5 @@ title arboria_v2r3
 description Arboria, a calm glade in the forest...
 author Torus (v2r4 by sev)
 has weapons
-gametype dm 30 20
-gametype tdm 50 20 2
-gametype lms 9 20
-gametype ctf 300 20 10
-gametype dom 500 20
-gametype kh 1000 20 3
-gametype ons 20
-gametype race 5 20 15
-settemp_for_type race g_weaponarena laser
+gametype cts
+

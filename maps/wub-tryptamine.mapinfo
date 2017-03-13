@@ -1,16 +1,16 @@
-title curvy (aka slopy:arena) by aardappel
 has weapons
 // uncomment this if you added turrets: has turrets
 // uncomment this if you added vehicles: has vehicles
-gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
+//gametype dm  defaults: timelimit=20 pointlimit=30 leadlimit=0
 // gametype dom
 // gametype ctf
-gametype arena
-gametype ca
-gametype kh
-gametype ca
-gametype tdm
-gametype ft
+//gametype arena
+//gametype ca
+//gametype kh
+//gametype ca
+//gametype tdm
+//gametype ft
+gametype cts
 // gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
 // gametype ka  // defaults: timelimit=20 pointlimit=30
 // optional: fog density red green blue alpha mindist maxdist
