@@ -144,10 +144,7 @@
 
 
 
-{
-"classname" "ammo_fuel"
-"origin" "4313.41309 -7932.24854 24.03125"
-}
+
 
 {
 "classname" "item_minst_cells"
@@ -157,22 +154,6 @@
 
 
 
-
-
-{
-"classname" "item_fuel"
-"origin" "1848.0105 -8434.51855 24.03125"
-}
-
-{
-"classname" "item_fuel"
-"origin" "1669.823 -3580.48486 320.03125"
-}
-
-{
-"classname" "item_fuel"
-"origin" "3699.24854 -4303.12842 424.03125"
-}
 
 {
 "classname" "item_minst_cells"
@@ -180,31 +161,97 @@
 }
 
 {
-"classname" "item_fuel"
-"origin" "3731.2561 -7831.68555 24.03125"
-}
-
-{
-"classname" "item_fuel"
-"origin" "15149.9404 -10239.9453 -103.96875"
-}
-
-{
 "classname" "item_minst_cells"
 "origin" "16752.3965 -5666.78711 -135.96875"
 }
 
-{
-"classname" "item_fuel"
-"origin" "23621.5605 2668.27197 -167.96875"
-}
 
-{
-"classname" "item_fuel"
-"origin" "23324.127 11740.2129 -1191.96875"
-}
 
 {
 "classname" "item_minst_cells"
 "origin" "17926.4258 13800.6914 -423.96875"
+}
+
+
+
+
+
+
+{
+"classname" "item_fuel"
+"origin" "4698.2793 -8420.66992 24.03125"
+}
+
+{
+"classname" "item_fuel"
+"origin" "2371.10522 -7921.74219 344.03125"
+}
+
+{
+"classname" "item_fuel"
+"origin" "1392.00464 -4784.48438 71.7923584"
+}
+
+{
+"classname" "item_fuel"
+"origin" "3800.04736 -4365.63281 424.03125"
+}
+
+{
+"classname" "item_fuel"
+"origin" "8203.44727 -7383.38867 88.03125"
+}
+
+{
+"classname" "item_fuel"
+"origin" "10842.6621 -10845.0703 160.934875"
+}
+
+{
+"classname" "item_fuel"
+"origin" "15085.9805 -10352.2627 -103.96875"
+}
+
+{
+"classname" "item_fuel"
+"origin" "16847.002 -5527.30176 -135.96875"
+}
+
+{
+"classname" "item_fuel"
+"origin" "21026.2988 -1749.99902 88.03125"
+}
+
+{
+"classname" "item_fuel"
+"origin" "22685.1152 114.223892 -410.475342"
+}
+
+{
+"classname" "item_fuel"
+"origin" "22824.7656 -103.692696 -418.233612"
+}
+
+{
+"classname" "item_fuel"
+"origin" "22850.6777 -280.483704 -419.643097"
+}
+
+{
+"classname" "item_fuel"
+"origin" "22827.0293 -479.511047 -417.951019"
+}
+
+{
+"classname" "item_fuel"
+"origin" "30152.4355 9952.44043 -551.96875"
+}
+
+{
+"classname" "item_fuel"
+"origin" "22518.2129 11735.2559 -423.96875"
+}
+{
+"classname" "item_fuel"
+"origin" "17921.7363 13814.6201 -423.96875"
 }
