@@ -153,3 +153,58 @@
 "classname" "item_minst_cells"
 "origin" "3731.2561 -7831.68555 24.03125"
 }
+
+
+
+
+
+
+{
+"classname" "item_minst_cells"
+"origin" "1848.0105 -8434.51855 24.03125"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "1669.823 -3580.48486 320.03125"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "3699.24854 -4303.12842 424.03125"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "8178.55371 -7395.96289 88.03125"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "3731.2561 -7831.68555 24.03125"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "15149.9404 -10239.9453 -103.96875"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "16752.3965 -5666.78711 -135.96875"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "23621.5605 2668.27197 -167.96875"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "23324.127 11740.2129 -1191.96875"
+}
+
+{
+"classname" "item_minst_cells"
+"origin" "17926.4258 13800.6914 -423.96875"
+}
