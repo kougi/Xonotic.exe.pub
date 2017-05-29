@@ -1,0 +1,225 @@
+{
+"_q3map2_version" "2.5.17n-git-a7e6001"
+"_q3map2_cmdline" "-scale 1.40"
+"gridsize" "89.599998 89.599998 179.199997"
+"classname" "worldspawn"
+"g_nostamina" "1"
+"target" "cancel"
+}
+
+
+
+
+
+
+
+{
+"classname" "trigger_race_checkpoint" //start
+"cnt" "0"
+"targetname" "start"
+"origin" "-712.83136 738.519409 740.831238"
+"angle" "-60"
+"mins" "-100 -600 0"
+"maxs" "300 600 250"
+}
+
+{
+"classname" "trigger_race_checkpoint" //first checkpoint
+"cnt" "1"
+"targetname" "c0"
+"origin" "11760.208 -961.778625 742.132935"
+"angle" "-60"
+"mins" "-1000 -600 -500"
+"maxs" "1000 600 1300"
+}
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 2 loop
+"cnt" "2"
+"targetname" "c1"
+"origin" "3809.50024 3555.33862 1174.89795"
+
+"mins" "-2000 -1000 -500"
+"maxs" "1000 1000 500"
+
+
+}
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 3 
+"cnt" "3"
+"targetname" "c2"
+"origin" "1611.26221 1331.07336 -3940.73584"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 4
+"cnt" "4"
+"targetname" "c3"
+"origin" "-2860.58325 2433.48462 -2871.1687"
+"mins" "-300 -900 0"
+"maxs" "300 900 250"
+}
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 5
+"cnt" "5"
+"targetname" "c4"
+"origin" "7681.84424 -4876.14453 -3722.36865"
+"mins" "-300 -900 0"
+"maxs" "300 900 250"
+}
+
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 6
+"cnt" "6"
+"targetname" "c5"
+"origin" "-5988.73438 -3134.99048 -3809.1687"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 7
+"cnt" "7"
+"targetname" "c5"
+"origin" "1121.53796 -314.336212 -6539.16846"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 8 (U turn)
+"cnt" "8"
+"targetname" "c5"
+"origin" "-2509.7998 6853.59766 -1810.49878"
+"mins" "-3000 -3000 0"
+"maxs" "3000 3000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 9
+"cnt" "9"
+"targetname" "c5"
+"origin" "-6925.66162 -1163.58325 -2932.7688"
+"mins" "-600 -1100 0"
+"maxs" "600 1100 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 10 wallride
+"cnt" "10"
+"targetname" "c5"
+"origin" "-13971.3682 13065.8291 542.292786"
+"mins" "-300 -1000 -900"
+"maxs" "300 1000 900"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //checkpoint 9
+"cnt" "11"
+"targetname" "c5"
+"origin" "-1604.90918 10615.5859 -3291.1687"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //12
+"cnt" "12"
+"targetname" "c5"
+"origin" "-4299.92139 12885.0762 -524.768738"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //13, outside loop
+"cnt" "13"
+"targetname" "c5"
+"origin" "6613.7041 11659.7568 1380.63123"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 800"
+}
+
+{
+"classname" "trigger_race_checkpoint" //after outside loop, prevent shortcut
+"cnt" "14"
+"targetname" "c5"
+"origin" "12665.1738 8620.66406 -3315.76245"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 600"
+}
+
+
+
+
+
+{
+"classname" "trigger_race_checkpoint" //15
+"cnt" "15"
+"targetname" "c5"
+"origin" "8182.08447 5848.33936 785.622864"
+"mins" "-1000 -1000 -1000"
+"maxs" "1000 1000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //16
+"cnt" "16"
+"targetname" "c5"
+"origin" "13591.5977 -12455.0039 -598.96875"
+"mins" "-300 -1000 0"
+"maxs" "300 1000 250"
+}
+
+
+{
+"classname" "trigger_race_checkpoint" //16, end
+"cnt" "17"
+"targetname" "c5"
+"origin" "-1818.75659 1271.8689 2310.91577"
+"mins" "-1000 -1000 0"
+"maxs" "1000 1000 100"
+}
+
+
+
+
+{
+"classname" "trigger_race_checkpoint" //Pool, finish
+"targetname" "finish"
+"cnt" "0"
+"origin" "-1813.80029 1334.9165 740.831238"
+"mins" "-1000 -100 0"
+"maxs" "1000 100 100"
+}
+
+
+
+
+
+
+{
+"classname" "info_player_race"
+"origin" "-1537.2583 729.311401 740.831238"
+"angle" "0"
+"target" "start"
+}
