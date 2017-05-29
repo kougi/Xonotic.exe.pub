@@ -570,22 +570,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
 {
 "classname" "trigger_race_checkpoint" //Pool, finish
 "targetname" "finish"
 "cnt" "9"
 "origin" "2286.76123 10406.2842 -9271.96875"
-"mins" "-400 -400 -400"
-"maxs" "400 400 400"
+"mins" "-400 -400 0"
+"maxs" "400 400 250"
 "spawnflags" "8"
 }
 
