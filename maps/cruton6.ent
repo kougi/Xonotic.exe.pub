@@ -262,3 +262,65 @@
 "classname" "item_jetpack" //jetpack
 "origin" "9261.62598 -3328.06885 113.212952"
 }
+
+{
+"classname" "item_jetpack" 
+"origin" "2697.90552 -8219.88867 24.03125"
+}
+
+
+
+
+{
+"classname" "monster_wyvern" 
+"origin" "2697.90552 -8219.88867 24.03125"
+}
+
+{
+"classname" "monster_shambler" 
+"origin" "5012.02783 -8505.89453 24.03125"
+}
+
+
+{
+"classname" "turret_flac" 
+"origin" "811.800659 -7236.51221 24.03125"
+}
+
+
+{
+"classname" "item_key" 
+"origin" "1145.79211 -4902.77393 24.03125"
+}
+
+
+
+
+
+
+
+//monsters
+{
+"classname" "monster_mage" 
+"origin" "10393.6084 -8989.4375 216.03125"
+}
+{
+"classname" "monster_mage" 
+"origin" "10415.3262 -9339.23145 216.03125"
+}
+{
+"classname" "monster_mage" 
+"origin" "10452.5098 -9759.73438 216.03125"
+}
+{
+"classname" "monster_mage" 
+"origin" "10463.4346 -10194.3574 216.03125"
+}
+{
+"classname" "monster_mage" 
+"origin" "10493.876 -10612.7822 216.03125"
+}
+{
+"classname" "monster_mage" 
+"origin" "10439.7842 -11062.5957 216.03125"
+}
