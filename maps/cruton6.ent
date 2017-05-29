@@ -255,3 +255,10 @@
 "classname" "item_fuel"
 "origin" "17921.7363 13814.6201 -423.96875"
 }
+
+
+
+{
+"classname" "item_jetpack" //jetpack
+"origin" "9261.62598 -3328.06885 113.212952"
+}
